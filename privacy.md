@@ -1,33 +1,37 @@
 ---
-title: 개인정보처리방침 - AI 한입
+title: Privacy Policy - AI Hanip Uploader
 ---
 
-# 개인정보처리방침 (Privacy Policy)
+# Privacy Policy (개인정보처리방침)
 
-시행일: 2026년 9월 29일
+Effective date: September 29, 2026
 
-## 1. 어떤 프로그램인가요
+AI Hanip Uploader ("the Tool") is a private desktop tool used only by the owner of the YouTube channel "AI한입" (contact: fmrd36@gmail.com) on the owner's own PC. It is not offered, sold or distributed to anyone else.
 
-AI 한입 업로더는 채널 운영자(fmrd36@gmail.com)가 본인의 유튜브 채널에 영상을 올리고 관리하기 위해 자기 PC에서만 쓰는 개인용 프로그램입니다. 일반 사용자에게 제공되거나 판매되지 않습니다.
+## 1. YouTube API Services
 
-## 2. 사용하는 정보
+The Tool uses YouTube API Services. By using the Tool you agree to the YouTube Terms of Service: https://www.youtube.com/t/terms
 
-YouTube API 서비스를 통해 운영자 본인 채널의 정보(채널 이름, 구독자 수, 영상 목록과 통계, 댓글, 재생목록, 자막)에 접근하고, 영상·썸네일·자막을 업로드합니다. 이 정보는 채널 운영(업로드, 성과 분석, 댓글 관리)에만 사용합니다.
+Google Privacy Policy: https://policies.google.com/privacy
 
-## 3. 저장과 공유
+## 2. What data the Tool accesses
 
-로그인 토큰과 통계 기록은 운영자 본인의 PC에만 저장됩니다. 다른 사람이나 회사에 판매하거나 공유하지 않으며, 광고에 사용하지 않습니다. 댓글 내용은 답글 초안 작성을 위해 AI 모델(Google Gemini API)에 전달될 수 있습니다.
+With the owner's permission (Google OAuth), the Tool accesses only the owner's own channel: channel name and statistics, the owner's video list and statistics, YouTube Analytics reports, comments on the owner's videos, playlists and captions. It uploads the owner's videos, Shorts, thumbnails and Korean captions.
 
-## 4. 권한 철회
+## 3. How the data is used
 
-언제든지 Google 계정 보안 설정(https://myaccount.google.com/permissions)에서 이 프로그램의 접근 권한을 철회할 수 있습니다. 철회하면 저장된 토큰은 더 이상 쓸 수 없습니다.
+The data is used only to operate the owner's channel: uploading, organizing playlists, measuring video performance to plan better videos, and drafting replies to viewer questions. Comment text may be sent to Google Gemini API to classify comments and draft replies.
 
-## 5. YouTube·Google 정책
+## 4. Storage, sharing and deletion
 
-이 프로그램은 YouTube API 서비스를 사용합니다. YouTube 서비스 약관(https://www.youtube.com/t/terms)과 Google 개인정보처리방침(https://policies.google.com/privacy)이 함께 적용됩니다.
+All data is stored only on the owner's PC. It is never sold, shared with third parties, or used for advertising. Comment text and other non-statistical API data are refreshed or deleted within 30 days. Channel and video statistics are kept for up to 36 months. The login token is deleted, and all stored API data is deleted within 7 days, when access is revoked.
 
-## 6. 문의
+## 5. Revoking access
 
-fmrd36@gmail.com
+Access can be revoked at any time from Google Account security settings: https://myaccount.google.com/permissions
 
-[홈으로](./)
+## 6. Deletion requests and contact
+
+To request deletion of any stored data, contact fmrd36@gmail.com. Requests are handled within 7 days.
+
+[Home](./) · [Terms of Service](terms.html)
